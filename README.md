@@ -1,1 +1,1 @@
-This code is for exploiting CVE-2018-7187.
+This code is for exploiting CVE-2018-6574.
